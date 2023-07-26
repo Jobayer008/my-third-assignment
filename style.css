@@ -1,0 +1,7 @@
+
+.font-family{
+    font-family: 'Lato', sans-serif;
+}
+::placeholder{
+    padding-left: 30px;
+}
